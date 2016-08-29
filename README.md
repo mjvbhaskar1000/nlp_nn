@@ -1,5 +1,7 @@
 # Natural Language Processing using Neural Networks
 
+In this example the neural network is trained using positive and negative sentences and when new sentences are given as input to this network, the network predicts if the sentence is positive or negative.
+
 -- features.py:
 This file reads the data from two files (one with positive lines of text and another with negative lines of text) and builds lexicon and converts all the strings to numbers. 
 
